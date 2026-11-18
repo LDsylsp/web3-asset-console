@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env*
+!.env.example
+.openai/
+*.log
+JOB_MATERIALS.md
+INTERVIEW*.md
